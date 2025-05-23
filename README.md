@@ -1,4 +1,4 @@
-![](/images/github-banner.jpg)  
+![banner](github-banner.jpg)  
 # 👋 Hi, I’m Domenico Monteleone
 
 🎯 **Supply Chain & Optimization Analyst**  
