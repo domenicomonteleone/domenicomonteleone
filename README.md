@@ -1,5 +1,4 @@
-![banner](github-banner.jpg)  
-# 👋 Hi, I’m Domenico Monteleone
+ # 👋 Hi, I’m Domenico Monteleone
 
 🎯 **Supply Chain & Optimization Analyst**  
 🔍 Data-driven problem solver with a passion for efficiency, innovation, and smart automation  
