@@ -24,11 +24,11 @@ All projects follow a structured, problem-solving approach — often based on fr
 
 ### 🎓 00_Certification-Courses  
 Projects from professional Coursera programs:
-- Google Data Analytics
-- Salesforce Sales Operations
-- Supply Chain Management
-- Business Statistics & Analysis
-- Supply Chain Analytics
+- [Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics)
+- [Salesforce Sales Operations](https://www.coursera.org/learn/sales-operations)
+- [Supply Chain Management](https://www.coursera.org/specializations/supply-chain-management)
+- [Business Statistics & Analysis](https://www.coursera.org/specializations/business-statistics-analysis)
+- [Supply Chain Analytics](https://www.coursera.org/learn/supply-chain-analytics)
 
 ### 🧠 01_Personal-Projects   
 Independent data projects focused on:

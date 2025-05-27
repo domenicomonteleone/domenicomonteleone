@@ -1,0 +1,56 @@
+📁 Google Data Analytics/
+├── analysis/
+├── data/
+├── images/
+├── reports/
+├── docs/             ✅ nuova cartella per GitHub Pages
+│   └── index.html    ✅ metti qui il tuo report knit da Rmd
+├── README.md
+🔁 Rinomina il file .html in index.html → questo è necessario perché GitHub Pages carica automaticamente solo index.html come homepage.
+
+🧭 Poi, attiva GitHub Pages così:
+Vai su GitHub → Settings del repository
+
+Sezione Pages (nel menu laterale)
+
+In Source, scegli:
+
+Branch: main (o master, se usi quello)
+
+Folder: /docs
+
+Esempio:
+
+bash
+Copia
+Modifica
+Source: main /docs
+Clicca Save
+
+GitHub ti darà un link simile a:
+
+arduino
+Copia
+Modifica
+https://tuo-utente.github.io/Google-Data-Analytics/
+👉 Visitando questo link vedrai il tuo report HTML!
+
+✅ Bonus: vuoi mostrare anche immagini e grafici nel report?
+Se nel tuo .Rmd hai dei grafici o immagini, assicurati che:
+
+I percorsi siano relativi (es. images/grafico.png)
+
+La cartella images/ sia presente dentro docs/, oppure copia le immagini lì.
+
+Esempio:
+
+markdown
+Copia
+Modifica
+📁 docs/
+├── index.html
+└── images/
+    └── grafico.png
+Se hai bisogno, posso aiutarti a scrivere lo script o il comando per automatizzare la copia dei file nella cartella docs/.
+
+Vuoi anche che ti generi un esempio di README.md descrittivo per il tuo progetto?
