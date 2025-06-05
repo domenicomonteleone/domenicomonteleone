@@ -72,10 +72,10 @@
 ## 📫 Contact & Portfolio
 
 🌐 [domenicomonteleone.altervista.org](https://domenicomonteleone.altervista.org)  
-🐙 [GitHub Analytics Portfolio] (https://domenicomonteleone.github.io/data-analytics-portfolio/)  
+🐙 [GitHub Analytics Portfolio](https://domenicomonteleone.github.io/data-analytics-portfolio/)  
 💼 [LinkedIn](https://www.linkedin.com/in/domenico-monteleone/)  
 🎥 [YouTube Channel](https://www.youtube.com/@domenico.monteleone)  
-⭐ [Salesforce Trailhead] https://www.salesforce.com/trailblazer/domenicomonteleone)
+⭐ [Salesforce Trailhead](https://www.salesforce.com/trailblazer/domenicomonteleone)
 
 ---
 
