@@ -93,6 +93,6 @@
 
 ---
 
-### Dati → Costi → Decisioni
+### Data → Cost → Decisions
 
 
