@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/github-banner.jpg" alt="Banner" width="100%" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+  <img src="./images/domenico-monteleone-banner.png" alt="Domenico Monteleone on Github" width="100%" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 </p>
 
 # 👋 Hi, I’m Domenico Monteleone
